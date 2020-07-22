@@ -2,7 +2,7 @@
 
 This is a simple one page todo app written in React.
 
-![Demo Gif](https://i.imgur.com/QpVHotT.gifv)
+![Demo Gif](https://i.imgur.com/QpVHotT.gif)
 
 ## Things that it accomplishes
 
